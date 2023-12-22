@@ -1,4 +1,4 @@
-import AppStoreBanner from "./components/AppSoreBanner/AppStoreBanner";
+import AppStoreBanner from "./components/AppStoreBanner/AppStoreBanner";
 import Banner from "./components/Banner/Banner";
 import BestBooks from "./components/BestBooks/BestBooks";
 import Books from "./components/BookSlider/Books";
